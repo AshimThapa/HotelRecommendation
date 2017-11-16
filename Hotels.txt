@@ -1,0 +1,4 @@
+El Grando:Lakeside Drive, San Diego:3:3
+Ivory Tower:Pinehill Road, Boston:4:3
+Elite:Federation Drive, Washington Dc:5:4
+Fleabox Motel:Wrong Side of the Tracks Road, Cleveland:1:1

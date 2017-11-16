@@ -1,0 +1,11 @@
+El Grando,Executive Studio,210,210,2,20,17
+El Grando,Standard Studio,180,180,2,30,10
+El Grando,Family Room,220,200,4,10,2
+Ivory Tower,Executive Studio,235,235,2,5,3
+Ivory Tower,Standard Studio,205,205,2,12,0
+Ivory Tower,Super-sized family room,350,350,6,4,1
+Elite,Ultra-luxury suite,890,890,2,5,3
+Elite,Elitist Studio,1400,1400,1,1,1
+Elite,Penthouse Apartment,1200,1200,4,3,2
+Elite,Gold-plated Luxury,1799,1799,2,10,8
+Fleabox Motel,Sardine Room,80,55,8,120,25
